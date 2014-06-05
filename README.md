@@ -1,4 +1,5 @@
-# Linux mouse driv 
+# Linux mouse driver
+
 
 
 ## Prerequisite
